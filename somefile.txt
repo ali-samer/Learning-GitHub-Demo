@@ -1,1 +1,2 @@
 Example file to be add
+– Added a second log entry
